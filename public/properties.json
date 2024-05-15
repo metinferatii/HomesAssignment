@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Howden Street",
+    "address": "Ladbroke Grove, W6",
+    "price": "£1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "matches",
+    "photo": "https://image.cnbcfm.com/api/v1/image/107185166-1674834580034-InvisibleHouse_JoshuaTreeCA_001.jpeg?v=1684418393&w=1920&h=1080"
+  },
+  {
+    "id": 2,
+    "name": "Howden Street",
+    "address": "Ladbroke Grove, W6",
+    "price": "£1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "matches",
+    "photo": "https://image.cnbcfm.com/api/v1/image/107185166-1674834580034-InvisibleHouse_JoshuaTreeCA_001.jpeg?v=1684418393&w=1920&h=1080"
+  },
+  {
+    "id": 3,
+    "name": "Howden Street",
+    "address": "Ladbroke Grove, W6",
+    "price": "£1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "matches",
+    "photo": "https://image.cnbcfm.com/api/v1/image/107185166-1674834580034-InvisibleHouse_JoshuaTreeCA_001.jpeg?v=1684418393&w=1920&h=1080"
+  },
+  {
+    "id": 4,
+    "name": "Howden Street",
+    "address": "Ladbroke Grove, W6",
+    "price": "£1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "matches",
+    "photo": "https://image.cnbcfm.com/api/v1/image/107185166-1674834580034-InvisibleHouse_JoshuaTreeCA_001.jpeg?v=1684418393&w=1920&h=1080"
+  },
+  {
+    "id": 5,
+    "name": "Howden Street",
+    "address": "Ladbroke Grove, W6",
+    "price": "£1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "type": "matches",
+    "photo": "https://image.cnbcfm.com/api/v1/image/107185166-1674834580034-InvisibleHouse_JoshuaTreeCA_001.jpeg?v=1684418393&w=1920&h=1080"
+  },
+  {
+    "id": 7,
+    "name": "Another Street",
+    "address": "Another Area, W7",
+    "price": "£900,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "suggestion",
+    "photo": "https://s.wsj.net/public/resources/images/BN-GA179_hodtal_M_20141215050731.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Another Street",
+    "address": "Another Area, W7",
+    "price": "£900,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "suggestion",
+    "photo": "https://s.wsj.net/public/resources/images/BN-GA179_hodtal_M_20141215050731.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Another Street",
+    "address": "Another Area, W7",
+    "price": "£900,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "suggestion",
+    "photo": "https://s.wsj.net/public/resources/images/BN-GA179_hodtal_M_20141215050731.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Another Street",
+    "address": "Another Area, W7",
+    "price": "£900,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "suggestion",
+    "photo": "https://s.wsj.net/public/resources/images/BN-GA179_hodtal_M_20141215050731.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Another Street",
+    "address": "Another Area, W7",
+    "price": "£900,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "suggestion",
+    "photo": "https://s.wsj.net/public/resources/images/BN-GA179_hodtal_M_20141215050731.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Another Street",
+    "address": "Another Area, W7",
+    "price": "£900,000",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "type": "suggestion",
+    "photo": "https://s.wsj.net/public/resources/images/BN-GA179_hodtal_M_20141215050731.jpg"
+  }
+]
